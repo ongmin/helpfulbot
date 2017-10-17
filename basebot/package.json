@@ -1,0 +1,21 @@
+{
+  "name": "helpful-bot",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Echo bot example",
+  "scripts": {
+    "nodewatch": "nodemon app.js",
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "main": "app.js",
+  "author": "Min Ong @ongmin"
+}
