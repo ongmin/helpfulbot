@@ -1,6 +1,6 @@
 ### Helpful bot
 
-Chat bot built on Microsoft Bot Framework during a CaaP workshop in Jakarta.
+Chat bot built on Microsoft Bot Framework.
 Includes LUIS (NLP) and Azure Search.
 
 
@@ -16,4 +16,4 @@ AZURE_SEARCH_INDEX=
 AZURE_SEARCH_KEY=
 ```
 
-Check out the tutorial at: [Guide to Bot](https://github.com/MissionMarsFourthHorizon/operation-max)
+Tutorial: [Guide to Bot](https://github.com/MissionMarsFourthHorizon/operation-max)
